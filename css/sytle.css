@@ -1,0 +1,32 @@
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.par{
+    width: 85px;
+    height: 85px;
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    font-size: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.impar{
+    width: 85px;
+    height: 85px;
+    border: 1px solid black;
+    font-size: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.body{
+    margin: 5px;
+}
